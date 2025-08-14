@@ -16,6 +16,8 @@ Graduado em Enfermagem pela UNICID, com pós-graduação em Enfermagem do Trabal
 
 ## 📂 Estrutura do Projeto
 - `controle_financeiro.xlsx` → Planilha principal com fórmulas e gráficos.
+- <img width="1276" height="644" alt="image" src="https://github.com/user-attachments/assets/5ce3a742-def5-43ac-88aa-435abf32278a" />
+
 
 ---
 
